@@ -10,8 +10,14 @@ What was learned:
 
 ### Section 4
 What was learned:
-- Build a simple project using NodeJs through Docker
+- Build a simple project using NodeJS through Docker
 - Copy files to container
 - Container Port mapping
 - Using Workdir
 - How to optimize build time using cache 
+
+### Section 5
+What was learned:
+- Introduction to docker-compose
+- Build a simple web application using NodeJS and Redis
+- Docker restart policies
