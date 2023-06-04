@@ -10,4 +10,8 @@ What was learned:
 
 ### Section 4
 What was learned:
-- In progress
+- Build a simple project using NodeJs through Docker
+- Copy files to container
+- Container Port mapping
+- Using Workdir
+- How to optimize build time using cache 
