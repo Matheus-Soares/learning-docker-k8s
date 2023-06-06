@@ -21,3 +21,12 @@ What was learned:
 - Introduction to docker-compose
 - Build a simple web application using NodeJS and Redis
 - Docker restart policies
+
+### Section 6
+What was learned:
+- Started to create a simple CI/CD flow
+- Build a simple project with React
+- How to integrate the development workflow with Docker
+- Introduction to docker volumes
+- How to bookmark volumes
+- Multi-stage builds
